@@ -1,0 +1,28 @@
+.menu{
+    list-style: none;
+    float: right; 
+    font-family: cursive;
+    top: 0px;
+    right: 30px;
+    cursor: pointer;
+    background-color: mediumslateblue;
+    color: white;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+    margin: 0px;
+}
+
+img{
+    border-radius: 90%;
+}
+
+#footer{
+    font-family: 'courgette', cursive;
+}
+
+.link{
+    display: inline;
+    margin-left: 70px;
+}
+
